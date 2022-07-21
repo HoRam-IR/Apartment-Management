@@ -1,2 +1,0 @@
-+ Heidi SQL	===> https://www.heidisql.com/download.php       
-+ XAMPP 	===> https://www.apachefriends.org/download.html --to use mysql and phpmyadmin
